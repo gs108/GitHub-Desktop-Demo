@@ -227,8 +227,3 @@ Wait for instructions before beginning.
 Do not perform the audit until the user provides the source code, page file, or specific page content to review and asks you to begin.
 
 Do not use quotation marks anywhere in the audit output.
-
-
-
-
-I don't remember what happens.# GitHub-Desktop-Demo
